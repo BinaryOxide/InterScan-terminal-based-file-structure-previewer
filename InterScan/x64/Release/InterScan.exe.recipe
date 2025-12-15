@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>H:\programming\projects\InterScan\x64\Debug\InterScan.exe</FullPath>
+      <FullPath>H:\programming\projects\InterScan\x64\Release\InterScan.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

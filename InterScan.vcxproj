@@ -127,6 +127,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
+    <None Include="interscan.iss" />
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>

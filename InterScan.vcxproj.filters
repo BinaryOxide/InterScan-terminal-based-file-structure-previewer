@@ -22,6 +22,7 @@
   <ItemGroup>
     <None Include="README.md" />
     <None Include=".gitignore" />
+    <None Include="interscan.iss" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="LICENSE.txt" />
