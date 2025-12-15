@@ -7,7 +7,8 @@ InterScan recursively scans a directory and prints a clean, tree-like view of fo
 > Built for developers who want clarity, not noise.
 
 ---
-
+![Alt text](preview001.png)
+---
 ## ✨ Features
 
 * 📁 Recursive directory traversal (full depth)
@@ -232,3 +233,4 @@ GitHub: [https://github.com/BinaryOxide](https://github.com/BinaryOxide)
 ---
 
 > If it pokes your folders and shows the truth — it did its job.
+
