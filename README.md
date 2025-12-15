@@ -4,7 +4,7 @@ A lightweight, Windows-only, terminal-based **file structure previewer** written
 
 InterScan recursively scans a directory and prints a clean, tree-like view of folders and files with **color-coded output**, optional **file-extension ignoring**, and **robust input parsing**.
 
-> Built for developers who want clarity, not noise.
+> Built for developers who want clarity
 
 ---
 ![Alt text](preview001.png)
@@ -233,4 +233,5 @@ GitHub: [https://github.com/BinaryOxide](https://github.com/BinaryOxide)
 ---
 
 > If it pokes your folders and shows the truth — it did its job.
+
 
